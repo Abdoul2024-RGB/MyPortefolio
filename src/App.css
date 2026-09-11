@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+    --color-brand-bg: #0a0813;
+    --color-brand-card: #120f24;
+    --color-brand-border: #231d45;
+    --color-brand-purple: #8b5cf6;
+    --color-brand-blue: #6366f1;
+}
+
+body {
+    background-color: var(--color-brand-bg);
+    color: #ffffff;
+    min-height: 100vh;
+}
