@@ -46,14 +46,14 @@ const Hero = () => {
 
                     {/* Titre Principal */}
                     <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight leading-tight">
-                        Hi, I'm <span className="bg-gradient-to-r from-brand-purple to-brand-blue bg-clip-text
+                        Salut, Moi c'est <span className="bg-gradient-to-r from-brand-purple to-brand-blue bg-clip-text
                          text-transparent">Abdoul</span> <br />
                         <span
                             className="bg-gradient-to-r from-brand-purple to-brand-blue bg-clip-text
                          text-transparent"
                         >Malick</span>
                         <br />
-                        I build things for the web.
+                        Je concois des solutions numériques performantes et innovantes.
                     </h1>
 
                     {/* Description */}
