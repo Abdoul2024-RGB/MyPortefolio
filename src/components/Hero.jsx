@@ -53,11 +53,15 @@ const Hero = () => {
                          text-transparent"
                         >Malick</span>
                         <br />
-                        Je concois des solutions numériques performantes et innovantes.
+
+
                     </h1>
 
                     {/* Description */}
                     <p className="text-gray-400 text-base sm:text-lg max-w-xl leading-relaxed">
+                        <span className="text-2xl bg-clip-text font-bold text-white
+                         ">Je suis Data analyste et Developpeur web</span> <br />
+
                         Passionné par la conception de solutions numériques performantes, l'analyse de données et le développement d'applications modernes.
                     </p>
 
