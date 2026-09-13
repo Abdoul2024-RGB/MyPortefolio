@@ -48,6 +48,10 @@ const Hero = () => {
                     <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight leading-tight">
                         Hi, I'm <span className="bg-gradient-to-r from-brand-purple to-brand-blue bg-clip-text
                          text-transparent">Abdoul</span>
+                        <span
+                            className="bg-gradient-to-r from-brand-purple to-brand-black bg-clip-text
+                         text-transparent"
+                        >Malick</span>
                         <br />
                         I build things for the web.
                     </h1>
